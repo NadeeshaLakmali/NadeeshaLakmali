@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadeesha Lakmali</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeeshalakmali&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshalakmali" /> </p>
-<img aling="right" width="944"src="https://www.google.com/url? sa=i&url=https%3A%2F%2Fgithub.com%2FPratikshya1201&psig=AOvVaw2JpJgITcBjGyvlyE5RkgOr&ust=1737728533293000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCmndCFjIsDFQAAAAAdAAAAABAW.gif">
+<img aling="right" width="640"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub&psig=AOvVaw2JpJgITcBjGyvlyE5RkgOr&ust=1737728533293000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCmndCFjIsDFQAAAAAdAAAAABAc.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadeeshalakmali" alt="nadeeshalakmali" /></a> </p>
 
