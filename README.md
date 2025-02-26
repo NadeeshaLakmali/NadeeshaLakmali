@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadeeshalakmali" alt="nadeeshalakmali" /></a> </p>
 
-- 🔭 I’m currently working on **Dart**
+- 🔭 I’m currently working on **Kotlin**
 
-- 🌱 I’m currently learning **React js and React Native**
+- 🌱 I’m currently learning **Kotlin & Java**
 
 - 💬 Ask me about **Python**
 
